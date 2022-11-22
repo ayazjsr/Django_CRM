@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'waayaz'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DDBBA147643E406A8E786AD298F42A49 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_856F3E773B6D4E40814B6C716FDB125E }}
